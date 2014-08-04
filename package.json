@@ -1,0 +1,28 @@
+{
+  "name": "gkit",
+  "version": "0.0.0",
+  "description": "基于gulp.js的前端集成解决方案",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hanan198501/gkit.git"
+  },
+  "keywords": [
+    "gkit",
+    "gulp"
+  ],
+  "author": "韩安",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanan198501/gkit/issues"
+  },
+  "homepage": "https://github.com/hanan198501/gkit",
+  "dependencies": {
+    "gulp": "^3.8.7",
+    "gulp-browserify": "^0.5.0",
+    "gulp-uglify": "^0.3.1"
+  }
+}
